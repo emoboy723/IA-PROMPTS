@@ -38,5 +38,12 @@ Si deseas añadir tus propias configuraciones de ingeniería de prompts o mejora
 # 📄 Prompts
 ---
 ### Gemini Upgrade
+### 📋 Plantilla Base
+
+Modifica los valores dentro de los corchetes según tu necesidad:
+
+```text
+Actúa como un experto en [ÁREA/DISCIPLINA]. 
+Quiero que optimices el siguiente fragmento de código teniendo en cuenta [RESTRICCIÓN]:
 
 [PEGA TU CÓDIGO AQUÍ]
