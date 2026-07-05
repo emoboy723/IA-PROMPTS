@@ -6,14 +6,6 @@ Una colección optimizada y estructurada de prompts avanzados para Inteligencia 
 
 ---
 
-## 🏷️ Autoría y Créditos
-
-Todas las respuestas generadas o inspiradas bajo este ecosistema llevan el sello de calidad del proyecto:
-
-> **BY MINI7J** ([github.com/emoboy723/IA-PROMPTS](https://github.com/emoboy723/IA-PROMPTS))
-
----
-
 ## 📂 Contenido del Repositorio
 
 Aquí encontrarás una variedad de plantillas y directrices técnicas clasificadas por categorías:
@@ -28,8 +20,7 @@ Aquí encontrarás una variedad de plantillas y directrices técnicas clasificad
 
 1. **Explora** las carpetas o archivos disponibles según tu necesidad técnica.
 2. **Copia** el prompt base de tu elección.
-3. **Personaliza** las variables indicadas según el contexto de tu entorno de desarrollo o plataforma.
-4. **Ejecuta** en tu cliente de IA preferido.
+3. **Ejecuta** en tu cliente de IA preferido.
 
 ---
 
