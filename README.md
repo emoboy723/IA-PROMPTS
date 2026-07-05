@@ -33,8 +33,3 @@ Si deseas añadir tus propias configuraciones de ingeniería de prompts o mejora
 3. Sube tus cambios (`git commit -m 'Añade prompt de optimización para X'`).
 4. Envía un **Pull Request** para revisión.
 
----
-
-## 📜 Licencia
-
-Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.****
