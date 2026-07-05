@@ -33,3 +33,6 @@ Si deseas añadir tus propias configuraciones de ingeniería de prompts o mejora
 3. Sube tus cambios (`git commit -m 'Añade prompt de optimización para X'`).
 4. Envía un **Pull Request** para revisión.
 
+---
+
+## 📄 Prompts
